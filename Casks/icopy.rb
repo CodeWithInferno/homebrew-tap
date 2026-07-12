@@ -3,7 +3,7 @@
 # On new releases: bump `version`, paste the sha256 printed by the release workflow.
 cask "icopy" do
   version "0.1.0"
-  sha256 "6b6e9bbb4805327c316533558aeffaeada2e65249b234740b1c41bb89511d200"
+  sha256 "166c9db0161267fe5e0b41cbb6fdb02da7f354310ec57608a748b1bb22f3c7f9"
 
   url "https://github.com/CodeWithInferno/iCopy/releases/download/v#{version}/iCopy.zip"
   name "iCopy"
